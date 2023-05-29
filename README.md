@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🇳🇱 I’m currently in Utrecht
-- 🌱 I’m currently learning GIT and Terraform
+- 🌱 I’m currently learning Pyspark and Terraform
 - 🤖 Most of the time I'm writing on Python and R. 
 - 😄 Pronouns: he/him
 - ♟️ Amateur chess enjoyer
